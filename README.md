@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a portfolio site
+- 🌱 I’m currently learning JavaScript
+- 🎒 I'm currently a student at [@TheOdinProject](https://github.com/TheOdinProject)
+- 💬 Ask me about food & sports (basketball & football specifically)
+- 📫 You can follow me on X/Twitter @jrumbawa_
+
 <!--
 **jomargrumbawa/jomargrumbawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
