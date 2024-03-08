@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a portfolio site
 - 🌱 I’m currently learning JavaScript
-- 🎒 I'm currently a student at [@TheOdinProject](https://github.com/TheOdinProject)
+- 🎒 I'm currently a student at [@Scrimba](https://github.com/scrimba)
 - 💬 Ask me about food & sports (basketball & football specifically)
 - 📫 You can follow me on X/Twitter @jrumbawa_
 
