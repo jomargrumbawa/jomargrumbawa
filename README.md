@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my portfolio site
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently Python
 - 👯 I’m looking to collaborate on open source education projects
 - 💬 Ask me about sports (football & basketball mostly), food & traveling
 - 📫 How to reach me: jomargrumbawa@gmail.com
